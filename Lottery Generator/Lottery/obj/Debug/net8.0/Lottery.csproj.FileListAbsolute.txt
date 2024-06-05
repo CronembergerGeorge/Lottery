@@ -1,0 +1,14 @@
+C:\Developer\Lottery Generator\Lottery\bin\Debug\net8.0\Lottery.exe
+C:\Developer\Lottery Generator\Lottery\bin\Debug\net8.0\Lottery.deps.json
+C:\Developer\Lottery Generator\Lottery\bin\Debug\net8.0\Lottery.runtimeconfig.json
+C:\Developer\Lottery Generator\Lottery\bin\Debug\net8.0\Lottery.dll
+C:\Developer\Lottery Generator\Lottery\bin\Debug\net8.0\Lottery.pdb
+C:\Developer\Lottery Generator\Lottery\obj\Debug\net8.0\Lottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\Lottery Generator\Lottery\obj\Debug\net8.0\Lottery.AssemblyInfoInputs.cache
+C:\Developer\Lottery Generator\Lottery\obj\Debug\net8.0\Lottery.AssemblyInfo.cs
+C:\Developer\Lottery Generator\Lottery\obj\Debug\net8.0\Lottery.csproj.CoreCompileInputs.cache
+C:\Developer\Lottery Generator\Lottery\obj\Debug\net8.0\Lottery.dll
+C:\Developer\Lottery Generator\Lottery\obj\Debug\net8.0\refint\Lottery.dll
+C:\Developer\Lottery Generator\Lottery\obj\Debug\net8.0\Lottery.pdb
+C:\Developer\Lottery Generator\Lottery\obj\Debug\net8.0\Lottery.genruntimeconfig.cache
+C:\Developer\Lottery Generator\Lottery\obj\Debug\net8.0\ref\Lottery.dll
