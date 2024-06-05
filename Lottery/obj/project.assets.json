@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DEV\\Lottery\\Lottery Generator\\Lottery\\Lottery.csproj",
+      "projectUniqueName": "C:\\DEV\\Lottery\\Lottery\\Lottery.csproj",
       "projectName": "Lottery",
-      "projectPath": "C:\\DEV\\Lottery\\Lottery Generator\\Lottery\\Lottery.csproj",
+      "projectPath": "C:\\DEV\\Lottery\\Lottery\\Lottery.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\DEV\\Lottery\\Lottery Generator\\Lottery\\obj\\",
+      "outputPath": "C:\\DEV\\Lottery\\Lottery\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
